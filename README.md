@@ -57,3 +57,4 @@
 
 [@Zero-S1](https://github.com/Zero-S1/xmly_speed) - 喜马拉雅极速版签到
 1212312312
+pt_key=xxxx;pt_pin=xxx; 
